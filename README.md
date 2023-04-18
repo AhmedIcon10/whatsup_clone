@@ -1,4 +1,4 @@
-# quran_app
+# Whatsup_clone
 
 A new Flutter project.
 
